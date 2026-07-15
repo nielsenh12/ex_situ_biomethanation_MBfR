@@ -14,30 +14,6 @@ Core SparCC functions (`sparcc`, `permute_w_replacement`) sourced from: https://
 - `pandas`
 - `numpy`
 
-## Suggested Repository Structure
-
-```
-sparcc-network/
-├── README.md
-├── code/
-│   └── sparcc_core.py          # from bio-developer/sparcc
-├── data/
-│   └── raw_counts.tsv
-└── output/
-    ├── rarefied_counts.tsv
-    ├── cor_sparcc_final.tsv
-    ├── permutations/
-    │   └── permutation_0.tsv ... permutation_99.tsv
-    ├── iters/
-    │   └── perm_cor_0.npy ... perm_cor_99.npy
-    ├── sparcc_final_results_v2.csv
-    ├── sparcc_final_results_with_fdr.csv
-    ├── sparcc_fdr_significant_pairs.csv
-    └── sparcc_fdr_significant_pairs_r_filt.csv
-```
-
----
-
 ## Pipeline Steps
 
 ### Step 1 — Sequencing depth QC
@@ -89,7 +65,7 @@ for min_samples in [2, 3, 4, 5, 7, 10]:
 ```
 
 ### Step 4 — Rarefaction and prevalence filtering
-**Purpose:** Drop Day 0, rarefy remaining samples to a common depth, and retain only ASVs present in ≥3 of 13 samples. Produces the cleaned count table used for correlation analysis.
+**Purpose:** Drop Day 0, rarefy remaining samples to a common depth, and retain only ASVs present in ≥3 of 15 samples. Produces the cleaned count table used for correlation analysis.
 **Input:** `data/raw_counts.tsv`
 **Output:** `output/rarefied_counts.tsv`
 
@@ -262,5 +238,5 @@ sig_r_filt.to_csv(f'{files_dir}/sparcc_fdr_significant_pairs_r_filt.csv', index=
 
 ## Notes
 - Random seeds are fixed (`np.random.default_rng(42)` for rarefaction; `np.random.seed(i)` per permutation index) for reproducibility.
-- Rarefaction depth and the ≥3-of-13-sample prevalence threshold were chosen based on the diagnostic checks in Steps 1–3.
+- Rarefaction depth and the ≥3-of-15-sample prevalence threshold were chosen based on the diagnostic checks in Steps 1–3.
 - All file paths above are relative and should be adapted to your local repository layout.
