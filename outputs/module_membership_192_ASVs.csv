@@ -1,0 +1,193 @@
+module,iterativeID,degree of connectivity,z-P role,ASV ID
+0,midas_g_9269.3,5,Peripheral non-hub,92f305372628ccbd74b7b28b933d306b
+0,midas_g_9269.2,4,Peripheral non-hub,4adbf4beb8d2b17f63b543e4d9aa39b6
+0,Pelotomaculum.2,2,Ultra-peripheral non-hub,d693c275c376753e40770f95ba69a9f9
+0,Flavobacterium.3,1,Ultra-peripheral non-hub,800e0527da5f9218e61c70f7d0ec8715
+1,Desulfuromonadaceae.1,24,Peripheral non-hub,a19152d55f42fc72a3a0f985d2615aab
+1,Christensenellaceae_R-7_group.4,19,Peripheral non-hub,5631fe818e588992529f6071afc9cda5
+1,Acetobacterium.1,18,Peripheral non-hub,e144d237c973d831d708cac2c17df968
+1,Brevundimonas.3,16,Peripheral non-hub,4b50be28c2cc7c6a4dbc6300155c5218
+1,midas_g_15299.1,16,Peripheral non-hub,ec92f6331d8ecb50e3f0dee8fbf3bcb0
+1,Acinetobacter.2,14,Peripheral non-hub,efbade8cc54695abfc5c07f21eecb6e7
+1,Pseudarcobacter.1,13,Ultra-peripheral non-hub,a49becf5a5dbcb201f091757c62fc6bb
+1,Azoarcus.2,13,Peripheral non-hub,cd05a4b1cda569ae366c6980823f4c72
+1,Hyphomonas.1,12,Peripheral non-hub,164212c0910ca9770a6bd13bcb2c5d05
+1,Mesotoga.1,10,Peripheral non-hub,d3cf08daefed96f494257ceff63a6cf8
+1,Christensenellaceae_R-7_group.63,9,Peripheral non-hub,5ccde7f0ad35d7a47123478dd67b2774
+1,midas_g_3595.1,9,Ultra-peripheral non-hub,7d537f12eaa3231c2c2b58b74901051c
+1,midas_g_36376.1,8,Peripheral non-hub,7a7c96429cd038c333985399c9eb963c
+1,midas_g_98017.1,7,Ultra-peripheral non-hub,212e304679f170a464d2616b3f94a250
+1,Sulfurospirillum.1,6,Peripheral non-hub,793ecb5ed65cd96425a35698e8ab9e78
+1,Anaerostignum.2,6,Ultra-peripheral non-hub,7f1023e871bcd3a4f7ac96f3a40c9a8d
+1,midas_g_5574.2,5,Ultra-peripheral non-hub,0c488eee4c6d02abb4e34df3ec16a09b
+1,Hydrogenophaga.1,5,Ultra-peripheral non-hub,1d33e98c9d94c262ab0d8b56d0936eb4
+1,Desulfobulbus.1,5,Ultra-peripheral non-hub,2c452b25c7f3c62be462d8f47ed179e3
+1,Pseudomonas.2,5,Ultra-peripheral non-hub,94ef08db649a5339b6de95109a8bad0f
+1,Methanobacteriaceae.1,4,Ultra-peripheral non-hub,63f37ee4b481fccdffca10160ed5b944
+1,Syner-01.1,4,Peripheral non-hub,a5b2537343a26f4daf0379a8b46eb2ef
+1,Methanobacterium.3,3,Ultra-peripheral non-hub,09ee5eb3e6c726c7c8242f6e97453fc2
+1,Pelotomaculum.3,3,Ultra-peripheral non-hub,659d1fe872c9b31a9e0b81eef5ca6218
+1,Petrimonas.1,3,Peripheral non-hub,83adaf3a09d08c93f2abea6a4c815592
+1,midas_g_8129.1,2,Peripheral non-hub,7b43b24e8c817bba9f0008696985ae06
+1,Ercella.2,2,Ultra-peripheral non-hub,8a1c973b6094cbd560f363581ce1beba
+1,Thauera.1,1,Ultra-peripheral non-hub,a6efdb52a04e05a2a1be52f5516784fa
+1,Anaerovorax.2,1,Ultra-peripheral non-hub,ac9e79a82beb3b70c0c7193fff0a8524
+1,Trichloromonas.1,1,Ultra-peripheral non-hub,d801b2110a503327da848c95357ca4a5
+1,midas_g_93469.1,1,Ultra-peripheral non-hub,dc9b83b9dbf521d0d0b0e1576e44d06a
+2,Pannonibacter.1,12,Peripheral non-hub,09383f3babfd32418e7ba07634680e12
+2,Dysgonomonas.1,10,Peripheral non-hub,4bea53b2aad77f2569a0182f6b84255e
+2,Bacteroides.1,9,Ultra-peripheral non-hub,d42912a22b570ab99938b745999ae2cc
+2,Desulfosporosinus.1,7,Ultra-peripheral non-hub,1f4fb4bfdca6c9d13106ed533362a62e
+2,Desulfosporosinus.3,6,Ultra-peripheral non-hub,aa9c5ae2ec6da55f30edd92e3de37eff
+2,Christensenellaceae_R-7_group.57,6,Ultra-peripheral non-hub,ee14afe4571845779465f8dc9646c7b4
+2,Monoglobus.1,5,Ultra-peripheral non-hub,779e393e6ff91129f826c691a0d16db3
+2,Desulfosporosinus.2,5,Ultra-peripheral non-hub,f3c13bc899928e8043766ca73a046487
+2,Methanobacterium.2,4,Ultra-peripheral non-hub,7f78afb7e1d45cd528fe9cd909c93fb5
+2,Propionicicella.4,3,Ultra-peripheral non-hub,6148c6e49d72c0f24a187a979ba7a5aa
+2,Clostridiaceae.6,3,Ultra-peripheral non-hub,75dd0ee2682cb0bf3146f334b0c41c93
+2,Burkholderiales.1,3,Peripheral non-hub,b64cf0e9dea8cef6b9500b364c179b98
+2,midas_g_82137.1,2,Ultra-peripheral non-hub,72d63057d6e53e6e72b1af409c9ed0fb
+2,Sporanaerobacter.1,2,Ultra-peripheral non-hub,89dfaf0aa4a8af8e27a826ba8dd97044
+2,Proteiniphilum.15,2,Ultra-peripheral non-hub,b4eac52cfa36ce63f24be2fc530ad204
+2,Christensenellaceae_R-7_group.38,1,Ultra-peripheral non-hub,42bdb37eaf4585993d2dadc410341bfc
+2,Clostridiaceae.5,1,Ultra-peripheral non-hub,55c520d7fe25c3a704fca36f36fde991
+2,Sphingopyxis.1,1,Ultra-peripheral non-hub,b26eb5a5ca6820d220d5433b1cffa5e6
+2,Desulfovibrio.3,1,Ultra-peripheral non-hub,bb617d32673d5f60d6216a07ad7a42bc
+2,Sedimentibacter.8,1,Ultra-peripheral non-hub,fde5fbd4507f68a2eabc92fb449d9965
+3,Methanobacterium.5,35,Ultra-peripheral non-hub,7281c911136ba2bdcafebb9c71729dea
+3,Christensenellaceae_R-7_group.1,32,Peripheral non-hub,206069e5a5041e6c7f39a4141aefdc19
+3,midas_g_49937.1,30,Ultra-peripheral non-hub,0ef7e12e6eb35a8fd9fac7badac0c381
+3,Monoglobus.13,29,Peripheral non-hub,1cbf580d763d0eb5497ff2d6468e7668
+3,Cryptanaerobacter.1,29,Peripheral non-hub,2e8ba4a2f665cc3ad88530fc739b1f9c
+3,midas_g_84729.1,29,Ultra-peripheral non-hub,3e7c933c821c9f18e53e1dda439951cf
+3,Ercella.1,29,Ultra-peripheral non-hub,6e21064675bd1626771d39886cc9d88b
+3,Aminiphilus.1,29,Ultra-peripheral non-hub,945e47119242497c2e0bc5b3c6b6ba8e
+3,midas_g_76603.1,29,Ultra-peripheral non-hub,daac17ca54538cbc9aada8497262da96
+3,midas_g_9269.1,27,Peripheral non-hub,93fadef301b62aa732e42bf1142b3afa
+3,Petrimonas.4,27,Ultra-peripheral non-hub,af9554a6cc07a34c1cb6004e3dbb865a
+3,midas_g_112760.1,26,Peripheral non-hub,5837405da6036e7481240160de143774
+3,midas_g_2178.1,26,Ultra-peripheral non-hub,f876e4d5cbaa6ac5f3c225bcaf146791
+3,Desulfurispora.1,25,Ultra-peripheral non-hub,916d15ab17794198ea4c5ad1e3fb6258
+3,Methanothrix.1,24,Ultra-peripheral non-hub,702860fda44c0d44ddacb5bd79fd5d24
+3,Syner-01.9,23,Ultra-peripheral non-hub,3e524f0bf09623c8530930bb8b27045c
+3,midas_g_92370.1,23,Peripheral non-hub,c4118088ab2644671a1d9d540c060b19
+3,Ca_Phosphitivorax.1,22,Ultra-peripheral non-hub,dd07e924156039f8e953d5ea58ab5023
+3,Syntrophobotulaceae.7,22,Ultra-peripheral non-hub,df20ccfbfc0741ee313d9e9433dbac01
+3,midas_g_35108.1,22,Ultra-peripheral non-hub,f2fbdc2b912ea775653691981335232f
+3,Thermovirga.1,21,Ultra-peripheral non-hub,817555c3b5d93664c38e8fbec64eba2e
+3,Azorhizobium.1,21,Peripheral non-hub,d98dabbea4fe10de13ec5310782324e8
+3,Christensenellaceae_R-7_group.44,20,Ultra-peripheral non-hub,85b80813a3be5e162f462e085b709b85
+3,Pelolinea.3,20,Ultra-peripheral non-hub,ce264b1fd05f8dfc0dd2941a2b170a3a
+3,Methanobacterium.1,19,Peripheral non-hub,0fec351445f84bd482075ceda6123f46
+3,Proteiniphilum.12,18,Ultra-peripheral non-hub,47515cfa358287ae00ead27b78b2285b
+3,Bellilinea.1,18,Peripheral non-hub,5c331188779be5bb65a2e80544aa8dea
+3,Christensenellaceae_R-7_group.2,17,Ultra-peripheral non-hub,4835c874610f20a02421b283dbe2f2b6
+3,Xanthobacter.1,16,Peripheral non-hub,8a4c692c01077fa5a93913725097b3bc
+3,midas_g_95534.1,15,Ultra-peripheral non-hub,94c501c5d59dddbd80effa77dbceebe0
+3,Proteiniphilum.1,13,Ultra-peripheral non-hub,e6485d233ed2b8b9a2f3f50f0747b9d2
+3,midas_g_30443.1,12,Peripheral non-hub,15c0fe41b25c6504b8dbe48ae72283d0
+3,Lentimicrobium.1,12,Ultra-peripheral non-hub,c55a8101fb6c187736f0af61f720cb92
+3,Methanobacterium.4,10,Ultra-peripheral non-hub,19463e5fe824700110e4a4ec8afe0512
+3,Proteiniphilum.2,9,Peripheral non-hub,0709277372b3816e3986842fb10c8e96
+3,midas_g_3064.1,8,Ultra-peripheral non-hub,8b2843ccdbc3d39c6d758b7f91388341
+3,Petrimonas.2,8,Ultra-peripheral non-hub,a402fc6f0fd057decbe746f48bf12862
+3,Ca_Caldatribacterium.1,7,Ultra-peripheral non-hub,894d5f2608f2a0e9e3bf2499f1cc6130
+3,midas_g_36215.2,5,Ultra-peripheral non-hub,43a52ec4605b37f3671b33e61ff6fedd
+3,midas_g_36215.1,4,Ultra-peripheral non-hub,5976a56adfe903f7348b5eb5689e3c55
+3,midas_g_669.3,4,Ultra-peripheral non-hub,aca43babf06d3410ce71cad5778ff102
+3,midas_g_554.2,3,Ultra-peripheral non-hub,b5b93f7fc3d0a88dff0ced83eb0bb5ab
+3,Anaerovorax.1,3,Ultra-peripheral non-hub,c7553191e309cfc2e28aea2507e7afdf
+3,Christensenellaceae_R-7_group.56,2,Ultra-peripheral non-hub,0112df9b91ee10ca73426db0de32571b
+3,midas_g_2604.3,2,Ultra-peripheral non-hub,99a197229849c15140fc329cff0ccb90
+3,Comamonadaceae.18,2,Ultra-peripheral non-hub,d0d582d9d9b71467f236f9bace54eea5
+3,midas_g_51070.3,1,Ultra-peripheral non-hub,18b7af5d1e7696bb8cd541bdde042b51
+3,Proteiniphilum.6,1,Ultra-peripheral non-hub,4f3989d95e7611bb6b5307454d75d3ce
+3,Syntrophomonas.3,1,Ultra-peripheral non-hub,b0c74390aa5ac540757eb2256575019e
+3,Christensenellaceae_R-7_group.42,1,Ultra-peripheral non-hub,c2d746ce5aed150d6696eed8143ec2c7
+4,Syntrophomonas.1,5,Peripheral non-hub,b757c414a3bc227758c09624ca177986
+4,Desulfovibrio.4,4,Peripheral non-hub,5cb2b4186e2e95521540e2ccbafcb4c9
+4,Ruminiclostridium.9,3,Peripheral non-hub,405dff4269ebcff0dbc2d5c0c63a1ee3
+4,Christensenellaceae_R-7_group.25,2,Peripheral non-hub,cf9d6956cc5e9b057171f8ba480e6fbf
+4,Dehalobacterium.2,1,Ultra-peripheral non-hub,f847d5bbe9c5a3555db3988cfa1b838f
+5,Thiobacillus.1,15,Peripheral non-hub,e79a45f432d0ccc86adbf9bbe7cef2a7
+5,midas_g_3409.1,8,Peripheral non-hub,66575db7635d648549a9eb5a4eafb710
+5,Geobacteraceae.1,7,Peripheral non-hub,1ad05a58bf23396d80f11695ad750b75
+5,LNR_A2-18.1,7,Peripheral non-hub,3343d19c0bc1759a66023cbc86c92592
+5,LNR_A2-18.2,7,Peripheral non-hub,a061d8883eca2028db1d268500722130
+5,midas_g_97311.1,7,Peripheral non-hub,b6e342d9f4e409f24eea3859aa76e82a
+5,Sphaerochaeta.1,2,Peripheral non-hub,8ebc39e79a930b5db089420489c40543
+5,Desulfovibrio.1,2,Peripheral non-hub,b3d8bf326297fb9b18ea4fef1ce8d4a6
+5,Christensenellaceae_R-7_group.29,1,Ultra-peripheral non-hub,9711e5e56376fe411f8d9ca9e739c6f1
+6,EBM-39.1,25,Peripheral non-hub,25c54c57b4a4283237b33fdae82003c0
+6,Fermentimonas.2,25,Peripheral non-hub,499a635c6e7dcd5c8ef518302aa50011
+6,midas_g_114295.1,25,Peripheral non-hub,e1c573f885ed4c9191a32116f583d78a
+6,Methanosarcina.1,23,Peripheral non-hub,35dbde30af820a2c3bcd85216229ad6a
+6,Acinetobacter.1,22,Peripheral non-hub,ff6f97ce50ea01298f8e58b53b97d489
+6,midas_g_669.2,21,Peripheral non-hub,6aa300d5323cbf75dc53cec3e6acb87c
+6,Desulfovibrio.2,20,Peripheral non-hub,430c875622713c0d7662add2d8e7db60
+6,Thermovirga.2,19,Ultra-peripheral non-hub,da47a34fd036b068ca0c5eaf185e2082
+6,Clostridium_sensu_stricto_13.1,18,Ultra-peripheral non-hub,472fdc0687378563f0c9da6da7638e1a
+6,Comamonadaceae.3,18,Peripheral non-hub,9feda0d620fa50b57ce3f848e1b48975
+6,midas_g_97954.1,17,Peripheral non-hub,a82691ab5fd4e8d3d3b23b7958c8e764
+6,Romboutsia.1,17,Peripheral non-hub,be9dcf562f0ab066c0b252d527a42d19
+6,Taibaiella.1,16,Peripheral non-hub,179e72f0ecdfeb920df685432f3f2d1a
+6,Camelimonas.2,15,Ultra-peripheral non-hub,0f4c04cefd226f6854ad0fbc2a2de226
+6,Monoglobus.2,15,Peripheral non-hub,4c7b0d554a1103b7872deded4bccb4ea
+6,midas_g_5574.1,14,Peripheral non-hub,06246fa4c1b00ea76b5539442f32c012
+6,Hydrogenophaga.7,13,Peripheral non-hub,213ec0ef843de45b3db9302876229bed
+6,Terrisporobacter.1,12,Ultra-peripheral non-hub,a039c1ac15b3f4bc5cf1db8a5f1cc0fd
+6,Lachnoclostridium.1,12,Ultra-peripheral non-hub,a43c475502b54cdee1385dcca3109bfe
+6,Aquamicrobium.2,11,Peripheral non-hub,28b5f35cfb5f0516e5e5f896428abdcd
+6,Intestinimonas.1,11,Ultra-peripheral non-hub,d02e8e093df5064814273f652473189e
+6,Aminivibrio.1,10,Peripheral non-hub,04869be25e3dc4d526ce3824d407aedf
+6,Oscillibacter.2,10,Peripheral non-hub,765b69d9c4313cc8630769db523cc54c
+6,Rhodococcus.1,8,Peripheral non-hub,19083703874fec5c0e976f6ca4fa6bc9
+6,Comamonadaceae.2,8,Ultra-peripheral non-hub,f42aeaf1c13130f1fdfc8bafa43ded29
+6,Gordonia.1,7,Ultra-peripheral non-hub,a53b7a494838590a5600a018277e55ea
+6,Oscillibacter.3,7,Peripheral non-hub,de329304e57f0e32da3a08e64625a2e1
+6,midas_g_2901.1,7,Ultra-peripheral non-hub,deb262fd92af4fdcd3b6240303048b2a
+6,midas_g_21833.1,6,Ultra-peripheral non-hub,65c689dc4b8772012494d43535fd1102
+6,Achromobacter.1,5,Ultra-peripheral non-hub,21ceeb224e15175f0c85797abce40d0a
+6,Limnobacter.1,5,Ultra-peripheral non-hub,cd991e2f230049eb76c8e3b3fcece79f
+6,Actinomyces.4,4,Ultra-peripheral non-hub,aa20c972229ba580ad2044118ab67181
+6,Ochrobactrum.1,2,Ultra-peripheral non-hub,29b313a5262947210e3e9de415abaead
+6,Paraclostridium.1,2,Ultra-peripheral non-hub,4c31c3e198534eab45b6d92b61f75b10
+6,Papillibacter.1,2,Ultra-peripheral non-hub,8d422552eb2392c7c2d4743727d1ff33
+6,Enterobacteriaceae.1,2,Ultra-peripheral non-hub,c571cb007a7d9e2dfc56e8c0b4e24104
+6,midas_g_98124.1,1,Ultra-peripheral non-hub,380c64674875dbcea485ba8f1ce26a6c
+6,Phenylobacterium.4,1,Ultra-peripheral non-hub,61bffb5ed48deb86adad74d3d45df340
+6,midas_g_93128.1,1,Ultra-peripheral non-hub,924ba8e00fb9f76de6bf217aac8ca9d4
+6,Sedimentibacter.11,1,Ultra-peripheral non-hub,abaecd8b82d14efc7ccc4dcb7f864cba
+6,Stenotrophomonas.3,1,Ultra-peripheral non-hub,acfe0924c0f9c6ca3720854b5b458d54
+6,Syner-01.2,1,Ultra-peripheral non-hub,e29f9ab1342fe7d53d4f1e2d03bb5969
+7,Ruminiclostridium.13,1,Ultra-peripheral non-hub,ce8d585abe69c46ac0fba61726d046c5
+7,Stenotrophomonas.1,1,Ultra-peripheral non-hub,d863bc6a2fa6a8a93787e45a6abe3304
+8,midas_g_94288.1,2,Peripheral non-hub,37a9f9625f201b6e61c29ac09ec54683
+8,Erysipelothrix.1,1,Ultra-peripheral non-hub,01bc6f144e0f577c7a5364ebafdb3509
+unassigned,Caproiciproducens.2,,,025ef58ad4c94b135c69cb93c2320909
+unassigned,Syntrophomonas.28,,,0d1f62d4f2f7227766a17f0340567129
+unassigned,midas_g_6187.2,,,0e9cc4c909306f5a9562d84888902e09
+unassigned,Syntrophomonadaceae.1,,,113b0d8ebf97fc5aba85fa06ecfdbb1a
+unassigned,Methanobacterium.61,,,135f3b8eaf65e4c59bcd692de4f6d6ae
+unassigned,Stenotrophomonas.2,,,20823322077cf511c8eff4f0840466fd
+unassigned,Hungateiclostridiaceae.27,,,28e70a00b942f129979d73aacfbf7bcd
+unassigned,Proteiniphilum.14,,,2b7dca9f823dab555a368d87f194804f
+unassigned,Ruminococcaceae.9,,,3fb688a9024c5d9e0c97cf7a6859063a
+unassigned,Stenotrophomonas.4,,,41f01f3e3cbf6beb908ae1ebb553208e
+unassigned,Propionicicella.1,,,44f513ba8d222b088ba2ad6e7ab85b8c
+unassigned,Pseudolabrys.2,,,49c2b5d0aaf2ac8b0ee6cae5b6c5a8f4
+unassigned,Clostridia.9,,,61d14f45268668061628d7a7990641b2
+unassigned,Christensenellaceae_R-7_group.3,,,6322c84c5ee6585bf9973a931d8f279d
+unassigned,midas_g_85764.2,,,6786956e5d741de3549e1c89e3a608b0
+unassigned,HN-HF0106.5,,,7bdb643584d385bedc3578796b996258
+unassigned,Romboutsia.3,,,8bc8eb4392eecf9f922bfb55df2c4144
+unassigned,midas_g_2178.3,,,9413dd54243692b250670640c660758d
+unassigned,Aquamicrobium.1,,,ab2050607cb3fe172ea918d5a17a46c7
+unassigned,Sphingosinicella.1,,,c97b49b5849b709da91fb5f6f48cd9eb
+unassigned,Propionibacteriaceae.3,,,cae75e1117d316c3a8f12909f766135b
+unassigned,midas_g_98017.2,,,dc21153823efbfe6f4e092f110775cde
+unassigned,Veillonellales-Selenomonadales.5,,,e27928b6f9a580b0d7f95feeb01ba523
+unassigned,Achromobacter.2,,,ec716420b2bb28ff5cfc5b19edbe2dfa
+unassigned,midas_g_110683.3,,,ef48b24d461ead26b22d8e442656ccc0
+unassigned,midas_g_82137.2,,,f61f4c9b8258738ad3ee7663e43e7907
+unassigned,Parapusillimonas.1,,,f816f5de71e4c19785cd5dfa8ee073db
